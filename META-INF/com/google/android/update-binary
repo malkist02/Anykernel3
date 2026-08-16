@@ -444,4 +444,3 @@ fi;
 
 ui_print " - Done!";
 ui_print " - Congratulations, your device is broken ";
-ui_print " - Getting,  ";
